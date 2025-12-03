@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🌸 Heloisa Giacometti
 
-<!--
-**heloliza/heloliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Turning curiosity into code.**
 
-Here are some ideas to get you started:
+Desenvolvedora backend com foco em **C#, .NET e APIs REST**, apaixonada por organização, código limpo e aprendizado consistente ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌿 Sobre mim
+- 🎓 Formanda de Ciência da Computação
+- 🔧 Backend Developer — .NET & C#  
+- 🗂️ Apaixonada por APIs e organização 
+- ☕ Café, estudos e uma boa playlist de fundo
+- 📘 Evoluindo um commit por vez e sempre aprendendo com desafios novos
+
+---
+
+## 🤍 Tecnologias
+
+**Backend**  
+`C#` · `.NET 6–9`
+
+**Ferramentas**  
+`Git` · `GitHub` · `Postman` · `SQL`
+
+**Interesses**  
+`Clean Code` ·  `Boas práticas` ·  `APIs` 
+
+---
+
+## 🌸 ·········································
+
+## 📌 Projetos
+
+### **Em construção**  
+Sempre desenvolvendo algo novo
+
+---
+
+## 🤍 ·········································
+
+## 📈 GitHub Stats
+<div align="center">
+
+![Heloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=heloliza&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heloliza&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+## 🌷 Pra dormir em paz
+> Código limpo, mente leve e muita curiosidade.
